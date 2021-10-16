@@ -30,31 +30,12 @@ exports.newMenu = (ucapan, ownerName, botName, prefix, pendaftar, runtime, pushn
 ├≽ *${prefix}stickermenu*
 ├≽ *${prefix}creatormenu*
 ├≽ *${prefix}groupmenu*
-├≽ *${prefix}sistemmenu*
 ├≽ *${prefix}gabutmenu*
 ├≽ *${prefix}gamemenu*
 ├≽ *${prefix}downloadmenu*
-├≽ *${prefix}searchmenu*
-├≽ *${prefix}stalkmenu*
-├≽ *${prefix}randommenu*
-├≽ *${prefix}animemenu*
-├≽ *${prefix}nsfwmenu*
 ├≽ *${prefix}toolsmenu*
-├≽ *${prefix}makermenu*
-├≽ *${prefix}storagemenu*
+├≽ *${prefix}makermenu*]
 ├≽ *${prefix}othermenu*
-├────────────────────
-╞═══ 《 *THANKS TO* 》 ═══
-├────────────────────
-
-
-
-
-
-
-p
-
-
 ╘═══ 《 *By ${ownerName}* 》 ═══`
 }
 
