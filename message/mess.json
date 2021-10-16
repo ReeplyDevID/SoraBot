@@ -4,10 +4,10 @@
         "Iv": "Link yang kamu berikan tidak valid",
         "api": "Maaf terjadi kesalahan"
     },
-    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
-    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
-    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
-    "BotAdmin": "Bot Harus menjadi admin",
-    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
-    "OnlyPrem": "Perintah ini khusus member premium"
+    "OnlyGrup": "Pake ini digrup tod",
+    "OnlyPM": "PM aje",
+    "GrupAdmin": "Yahaa bukan admin",
+    "BotAdmin": "Jadiin gw admin dulu!",
+    "OnlyOwner": "Only Ree can use this command h3h3",
+    "OnlyPrem": "Lu belom premium!"
 }
